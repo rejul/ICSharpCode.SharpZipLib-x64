@@ -4,4 +4,4 @@
 # Target .Net Framework v4.6 
 
 
-SOURCE BASED ON https://github.com/icsharpcode/SharpZipLib
+SOURCE https://github.com/icsharpcode/SharpZipLib
